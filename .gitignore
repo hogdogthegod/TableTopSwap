@@ -1,0 +1,5 @@
+node_modules/
+tester.js
+.env
+public/css/
+public/scripts/

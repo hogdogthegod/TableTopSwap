@@ -1,0 +1,19 @@
+{
+  "name": "tabletopswap",
+  "version": "1.0.0",
+  "description": "board game exchange site for FCC",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hogdogthegod/TableTopSwap.git"
+  },
+  "author": "HogDog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hogdogthegod/TableTopSwap/issues"
+  },
+  "homepage": "https://github.com/hogdogthegod/TableTopSwap#readme"
+}
